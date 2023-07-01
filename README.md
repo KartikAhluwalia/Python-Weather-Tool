@@ -32,7 +32,8 @@ Download and Install the above packages for before running the code.
 
 # Screenshots
 
-<img width="436" alt="Delhi Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/15149af3-5827-4108-a673-e79951d6414c">
+<img width="436" alt="Delhi Weather Kartik" src="https://github.com/KartikAhluwalia/Python-Weather-Tool/assets/96951632/50f6d2da-d701-4f1b-8517-6af2726b2d3e">
+
 
 <img width="553" alt="Bengaluru Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/b8405f07-1665-467a-beaa-1cd9e013de48">
 
