@@ -13,3 +13,28 @@ Additionally, before each code execution, the program employs a screen-clearing 
 The weather forecast tool provides essential weather details such as temperature, humidity, pressure, and an overall description of the weather condition (e.g., sunny, cloudy, rainy) for the specified city. This enables users to stay informed about the current weather conditions in any location of their interest.
 
 Overall, this Python project combines functionality, aesthetics, and user experience enhancements to create a user-friendly weather forecast tool in the command line.
+
+# Pre-Requisites
+
+import requests
+
+import json
+
+from termcolor import colored, cprint
+
+from pyfiglet import Figlet
+
+import os
+
+import time 
+
+Download and Install the above packages for before running the code.
+
+# Screenshots
+<img width="436" alt="Delhi Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/15149af3-5827-4108-a673-e79951d6414c">
+
+<img width="553" alt="Bengaluru Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/b8405f07-1665-467a-beaa-1cd9e013de48">
+
+<img width="500" alt="Gurugram Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/02fb5d79-3a4f-4afe-988e-219629b3f84f">
+
+<img width="450" alt="New York Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/0eaff06f-9045-46da-a3f7-9c633f783861">
