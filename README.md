@@ -34,9 +34,9 @@ Download and Install the above packages for before running the code.
 
 <img width="436" alt="Delhi Weather Kartik" src="https://github.com/KartikAhluwalia/Python-Weather-Tool/assets/96951632/50f6d2da-d701-4f1b-8517-6af2726b2d3e">
 
+<img width="553" alt="Bengaluru Weather Kartik" src="https://github.com/KartikAhluwalia/Python-Weather-Tool/assets/96951632/26f138cc-a6b7-48ff-b67f-221f2af0c6c5">
 
-<img width="553" alt="Bengaluru Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/b8405f07-1665-467a-beaa-1cd9e013de48">
+<img width="500" alt="Gurugram Weather Kartik" src="https://github.com/KartikAhluwalia/Python-Weather-Tool/assets/96951632/1c22057f-82ee-417c-8b97-37cfea4a1463">
 
-<img width="500" alt="Gurugram Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/02fb5d79-3a4f-4afe-988e-219629b3f84f">
+<img width="450" alt="New York Weather Kartik" src="https://github.com/KartikAhluwalia/Python-Weather-Tool/assets/96951632/3eadb931-fb89-495a-b0b3-b76513cb47ee">
 
-<img width="450" alt="New York Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/0eaff06f-9045-46da-a3f7-9c633f783861">
