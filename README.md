@@ -31,9 +31,8 @@ import time
 Download and Install the above packages for before running the code.
 
 # Screenshots
-![Delhi Weather](<img width="436" alt="Delhi Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/15149af3-5827-4108-a673-e79951d6414c">)
 
-[<img width="436" alt="Delhi Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/15149af3-5827-4108-a673-e79951d6414c">](https://github-production-user-asset-6210df.s3.amazonaws.com/96951632/248454498-15149af3-5827-4108-a673-e79951d6414c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230701T142125Z&X-Amz-Expires=300&X-Amz-Signature=aa14b44757f834ccf4e2b5e407ce51c996806461e51eb7a0bcb500d61ed13b68&X-Amz-SignedHeaders=host&actor_id=96951632&key_id=0&repo_id=657901878)
+<img width="436" alt="Delhi Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/15149af3-5827-4108-a673-e79951d6414c">
 
 <img width="553" alt="Bengaluru Weather Kartik" src="https://github.com/Fastest-Coder-First/Weather_Python_Kartik_Ahluwalia/assets/96951632/b8405f07-1665-467a-beaa-1cd9e013de48">
 
